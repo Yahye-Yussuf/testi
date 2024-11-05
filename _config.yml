@@ -3,6 +3,6 @@ description: Tervetuloa sivustolle!
 theme: jekyll-remote-theme
 
 header_pages:
-- Viikko 1
-- Viikko 2
+- Vko1.md
+- Vko2.md
 
